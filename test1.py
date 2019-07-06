@@ -16,3 +16,4 @@ for i in range(1,times):
         print("\t\tj=%d"%(j))
         for k in range(1,times):
             print("\t\t\tk=%d"%(k))
+            print("\t\t\ti-j-k=%d%d%d"%(i,j,k))
